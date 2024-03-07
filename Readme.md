@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Abhishek Garg from Cheeka , Haryana.<br><br>- 🔭 I’m working as Software Engineer Intern<br>- 📚 I'm currently learning MEAN stack, DSA and Spring Framework. <br>- ⚡ In my free time I probabily work on some personal projects.</p>
+<p align="left">I'm Abhishek Garg from Cheeka , Haryana.<br><br>- 🔭 I’m working as Software Engineer Intern<br>- 📚 I'm currently learning ReactJS. <br>- ⚡ In my free time I probabily work on some personal projects.</p>
 
 ###
 
