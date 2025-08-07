@@ -1,53 +1,59 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
-###
+
+<h1 align="center">Hey there 👋, I'm Abhishek Garg</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhishek-garg-1400611bb/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishekgarg0507/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 👨‍💻 About Me
 
-###
+- 🎓 Data Analyst with interest in Machine Learning & Business Intelligence  
+- 🛠 Currently working on a **House Price Prediction** project using Python and scikit-learn  
+- 📊 Created dashboards using **Power BI** and **Tableau** to uncover actionable business insights  
+- 💡 Love solving real-world problems through data  
+- 🌱 Currently learning: Feature engineering, model evaluation, and ReactJS (for frontend projects)
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 🚀 Featured Projects
 
-<p align="left">I'm Abhishek Garg from Cheeka , Haryana.<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning ReactJS. <br>- ⚡ In my free time I probabily work on some personal projects.</p>
+- 🔹 [**House Price Prediction** (In Progress)](https://github.com/AbhishekGarg0507/HousePricePrediction)  
+  Regression model using Python to predict house prices. Completed data cleaning and EDA.
 
-###
+- 🔹 **Sales Insights Dashboard (Power BI)**  
+  Visualized KPIs and sales performance using interactive visuals in Power BI.
 
-<h3 align="left">🛠 Language and tools</h3>
+- 🔹 **Sales Dashboard (Tableau)**  
+  Built a real-time sales tracker using Tableau public datasets.
 
-###
+---
+
+### 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+
+
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau" />
 </div>
 
-###
+---
+
+### 📫 Contact Me
+
+📧 gargabhishek9905@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/abhishekgarg0507/)  
+📍 Berlin, Germany
+
+---
