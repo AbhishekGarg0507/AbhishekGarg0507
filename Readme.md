@@ -22,9 +22,6 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 [**House Price Prediction** (In Progress)](https://github.com/AbhishekGarg0507/HousePricePrediction)  
-  Regression model using Python to predict house prices. Completed data cleaning and EDA.
-
 - 🔹 **Sales Insights Dashboard (Power BI)**  
   Visualized KPIs and sales performance using interactive visuals in Power BI.
 
