@@ -12,8 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Data Analyst with interest in Machine Learning & Business Intelligence  
-- 🛠 Currently working on a **House Price Prediction** project using Python and scikit-learn  
+- 🎓 Data Analyst with interest in Machine Learning & Business Intelligence 
 - 📊 Created dashboards using **Power BI** and **Tableau** to uncover actionable business insights  
 - 💡 Love solving real-world problems through data  
 - 🌱 Currently learning: Feature engineering, model evaluation, and ReactJS (for frontend projects)
